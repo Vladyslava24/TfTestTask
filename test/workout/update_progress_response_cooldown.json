@@ -1,0 +1,181 @@
+{
+  "date": "2021-01-27",
+  "hexagonState": {
+    "physical": 90,
+    "emotional": 100,
+    "intellectual": 30,
+    "spiritual": 0,
+    "social": 0,
+    "union": 0
+  },
+  "storyDone": false,
+  "iWillStatements": [
+  ],
+  "wisdomDone": false,
+  "recommendedWorkout": {
+    "id": "14",
+    "theme": "COLORADO",
+    "image": "https://totalfit-app-images.s3-eu-west-1.amazonaws.com/ColoradoWorkout.jpg",
+    "skillImage": "https://totalfit-app-images.s3-eu-west-1.amazonaws.com/SquatJumpsSkill.jpg",
+    "wodType": "AMRAP",
+    "estimatedTime": 25,
+    "difficultyLevel": "Beginner",
+    "equipment": [
+      "No equipment"
+    ]
+  },
+  "healthyLifestyleHabitProgress": [
+  ],
+  "story": {
+    "id": "53",
+    "name": "Captain McDaniel",
+    "story": "Once in the late 1940's, a young soldier was reduced in rank from sergeant to private. He then stood outside the headquarters at his base and read his orders again. \"Report to Captain McDaniel at...\"\r\n\r\nNo doubt this Captain McDaniel would know of the private's recent release from the stockade, where he'd served five out of a six month's sentence for stealing military script money from the Squadron's post office.\r\n\r\nWalking to the entryway, the private mumbled to himself, 'Might as well get ready for another chewing out'. Stepping inside and setting down his belongings, he looked nervously over the room. The first sergeant was sitting at a desk with some clerical types beyond him.\r\n\r\nThe private handed his orders to the sergeant and said, \"I'm here to report to Captain McDaniel.\"\r\n\"Oh, you're Private ________. The Captain said he wanted to see you the moment you arrived. The door on your left, at the end of the room...\" he motioned. \"Knock three times and wait till he says, 'come in' before you enter; then march up to his desk, come to attention and salute.\"\r\n\r\n\"Whoa,\" the private said under his breath, as he headed toward the Captain's door. 'A special assignment? Looks like I'm in for it now!'\r\n\r\nThe 'come in' command was sharp and the private braced himself for the ordeal; he took a deep breath, opened the door and strode up to the captain's desk. There he saluted and said, \"Private ________ reporting as ordered sir.\"\r\n\r\n\"Stand at ease, private. I've read your court martial transcript. That, and a copy of your conduct while in the stockade were forwarded here from your commanding officer.\r\n\r\n\"I note that you achieved trustee status after just two months, and that your conduct was that of a model soldier in confinement. Because of this, I've decided to give you a special assignment.\" The Captain looked him in the eye. \"Perhaps the sergeant mentioned this?\"\r\n\r\n\"Yes sir. He did.\"\r\n\r\n\"Good,\" said the Captain, reaching inside a desk drawer.\r\n\r\n\"Here,\" he said, stretching his hand toward the private. \"Here's $420.00 in military script money. Go to the base post office and buy a money order with it. On your way, get your barrack's assignment from the first sergeant, then report to me tomorrow morning at 0800 hours with the money order. Any questions?\"\r\n\r\nThe private was too dumbfounded to formulate a question!\r\n\r\nHere was this Captain - who only knew what he'd read of him in the court martial transcript - entrusting him with $420.00 in military script money...the exact amount he and his partner in crime had stolen all those months before.\r\n\r\nThe private's only question was...why was the Captain doing this?\r\n\r\nBut he answered the Captain with, \"No questions, sir!\"\r\nThe Captain dismissed him and the private came to attention, saluted, about-faced and briskly strode to the door. The door opened towards himself, and he momentarily faced the Captain. \"Sir?\" he asked.\r\n\r\nThe Captain looked up.\r\n\r\n\"THANK YOU, SIR!\" the private's voice rang out!\r\n\r\nThe Captain waved him off, and the private practically skipped to his designation. Rarely had a man been so thrilled by an assignment. How could the private do anything other than what was right - when he'd been offered such a gift?\r\n\r\nCaptain McDaniel was one of those people who came with a purpose into the private's life. The private never saw or heard from the Captain again; but as long as he lived, he never forgot the Captain's 'Special Assignment'.\r\n\r\nFor, by giving him till the next morning to complete the assignment, the Captain had created a fork in the road. He'd allowed the private a great head start - in case he decided to take the money and run. And he'd also given him the chance, should he decide to take it, to restore the righteousness he'd lost!\r\n\r\n(Thinking of it in the years to come, the private never ceased to marvel at the Captain's unmerited gift of grace!)",
+    "truthToRemember": "For sin shall no longer be your master, because you are not under the law, but under grace.",
+    "image": "https://totalfit-app-images.s3-eu-west-1.amazonaws.com/Captain.jpg",
+    "estimatedReadingTime": 3,
+    "author": "TOTALFIT",
+    "shared": true
+  },
+  "wisdomOfTheDay": {
+    "id": "854",
+    "name": "Flexibility",
+    "text": "Without adequate flexibility, daily activities such as getting out of bed, lifting a child, or squatting to pick something up can become more difficult to do. In addition, inadequate flexibility can affect your athletic performance by preventing you from reaching the full potential, strength, and power of your muscles.\r\n\r\nFlexibility is defined as the range of motion of your joints or the ability of your joints to move freely. It also refers to the mobility of your muscles, which allows for more movement around the joints. Range of motion is the distance and direction your joints can move, while mobility is the ability to move without restriction.\r\n\r\nBenefits of Flexibility Training\r\nThere are several benefits of flexibility training.\r\n It increases range of motion. Flexibility training helps improve the range of motion of your joints and muscles.\r\n\r\nNext, it decreases your risk of injury. When your muscles are flexible, you are less likely to become injured during physical activity. \r\n\r\nIt also reduces muscle soreness. Flexibility training can help reduce muscle soreness post-workout. Stretching after you exercise keeps your muscles loose and relaxed. \r\n\r\nLastly, it improves athletic performance. When your joints and muscles are flexible, you use less energy while in motion, which improves your overall performance.\r\n\r\nSource: Flexibility in Fitness: Definition, Stretches, exercises https://study.com/academy/lesson/flexibility-in-fitness-definition-stretches-exercises.html",
+    "image": "https://totalfit-app-images.s3-eu-west-1.amazonaws.com/w013.jpg",
+    "estimatedReadingTime": 1,
+    "finishDate": null,
+    "done": false
+  },
+  "environmental": {
+    "environmentalRecord": null,
+    "widgetConfig": {
+      "minValue": 10,
+      "maxValue": 120,
+      "step": 1,
+      "minValueTitle": "10 min",
+      "maxValueTitle": "2+ hours",
+      "collapsedStateImage": "https://totalfit-app-images.s3-eu-west-1.amazonaws.com/envir%403x.jpg",
+      "expandedStateImage": "https://totalfit-app-images.s3-eu-west-1.amazonaws.com/envir%403x.jpg"
+    }
+  },
+  "workoutProgress": [
+    {
+      "id": "898",
+      "points": 1200,
+      "startedAt": "2021-01-27T08:30:45Z",
+      "roundCount": 1,
+      "workoutPhase": "COOLDOWN",
+      "workoutDuration": 57378,
+      "skillTechniqueRate": 6,
+      "warmupStageDuration": 25000,
+      "skillStageDuration": 7695,
+      "wodStageDuration": 16000,
+      "cooldownStageDuration": 8683,
+      "warmupExerciseDurations": [
+        {
+          "exerciseName": "Inch Worms",
+          "exerciseDuration": 18000,
+          "workoutPhase": "WARMUP"
+        },
+        {
+          "exerciseName": "Side Plank Left",
+          "exerciseDuration": 21000,
+          "workoutPhase": "WARMUP"
+        },
+        {
+          "exerciseName": "Side Plank Right",
+          "exerciseDuration": 24000,
+          "workoutPhase": "WARMUP"
+        },
+        {
+          "exerciseName": "Air Squats",
+          "exerciseDuration": 27000,
+          "workoutPhase": "WARMUP"
+        }
+      ],
+      "skillExerciseDurations": [
+        {
+          "exerciseName": "Squat Jumps",
+          "exerciseDuration": 1000,
+          "workoutPhase": "SKILL"
+        }
+      ],
+      "wodExerciseDurations": [
+        {
+          "exerciseName": "Jumping Jacks",
+          "exerciseDuration": 2000,
+          "workoutPhase": "WOD"
+        },
+        {
+          "exerciseName": "Crunches",
+          "exerciseDuration": 3000,
+          "workoutPhase": "WOD"
+        },
+        {
+          "exerciseName": "Leg Raises",
+          "exerciseDuration": 4000,
+          "workoutPhase": "WOD"
+        },
+        {
+          "exerciseName": "Burpee",
+          "exerciseDuration": 5000,
+          "workoutPhase": "WOD"
+        },
+        {
+          "exerciseName": "Reverse Lunges",
+          "exerciseDuration": 6000,
+          "workoutPhase": "WOD"
+        },
+        {
+          "exerciseName": "Push-ups",
+          "exerciseDuration": 7000,
+          "workoutPhase": "WOD"
+        }
+      ],
+      "cooldownExerciseDurations": [
+        {
+          "exerciseName": "Pancake Stretch",
+          "exerciseDuration": 2000,
+          "workoutPhase": "COOLDOWN"
+        },
+        {
+          "exerciseName": "Frog Straddle",
+          "exerciseDuration": 3000,
+          "workoutPhase": "COOLDOWN"
+        }
+      ],
+      "workout": {
+        "id": "19",
+        "theme": "ARKANSAS",
+        "image": "https://totalfit-app-images.s3-eu-west-1.amazonaws.com/ArkansasWorkout.jpg",
+        "skillImage": "https://totalfit-app-images.s3-eu-west-1.amazonaws.com/KippingPullUpsSkill.jpg",
+        "wodType": "FOR_TIME",
+        "estimatedTime": 40,
+        "difficultyLevel": "Intermediate",
+        "equipment": [
+          "No equipment"
+        ]
+      },
+      "answeredQuestions": [
+        {
+          "id": "2664",
+          "questionId": "1",
+          "question": "How are you feeling today?",
+          "answer": "-1"
+        },
+        {
+          "id": "2663",
+          "questionId": "2",
+          "question": "What are you thankful for?",
+          "answer": ""
+        },
+        {
+          "id": "2665",
+          "questionId": "3",
+          "question": "What is stressing you out?",
+          "answer": ""
+        }
+      ],
+      "finished": false
+    }
+  ]
+}

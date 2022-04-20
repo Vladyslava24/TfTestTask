@@ -1,0 +1,20 @@
+name: mood_api
+description: Mood external api of mood module
+version: 1.0.0
+
+publish_to: none
+
+environment:
+  sdk: '>=2.14.4 <3.0.0'
+
+dependencies:
+  mood_usecase:
+    path: ../usecase
+  mood_ui:
+    path: ../ui
+  core:
+    path: ../../../core
+
+dev_dependencies:
+  lints: ^1.0.0
+  test: ^1.16.0

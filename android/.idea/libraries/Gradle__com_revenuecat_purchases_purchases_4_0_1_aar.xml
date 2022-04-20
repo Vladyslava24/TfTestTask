@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="Gradle: com.revenuecat.purchases:purchases:4.0.1@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/135d95768aa94473a2f8ffcb7dc62e8e/jetified-purchases-4.0.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/135d95768aa94473a2f8ffcb7dc62e8e/jetified-purchases-4.0.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/135d95768aa94473a2f8ffcb7dc62e8e/jetified-purchases-4.0.1/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e2b8b53f3d4cd2b200232bb77c1fcf86/jetified-purchases-4.0.1/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e2b8b53f3d4cd2b200232bb77c1fcf86/jetified-purchases-4.0.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e2b8b53f3d4cd2b200232bb77c1fcf86/jetified-purchases-4.0.1/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.revenuecat.purchases/purchases/4.0.1/a19d615a249f39d7d31c4dd4570b4ab905cf21f6/purchases-4.0.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.revenuecat.purchases/purchases/4.0.1/977bbef95f6ae348d0641a63b947a95d4cf8723a/purchases-4.0.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

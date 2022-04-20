@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>331057882530-2rq3rahgma9ef8su63kuq3s41ecoupie.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.331057882530-2rq3rahgma9ef8su63kuq3s41ecoupie</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>331057882530-7lmi98g3ca0cqer59at3uprssmb30c5q.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyATXhl6l1Jbfc9xwU7enL6EYjfisAJQD0M</string>
+	<key>GCM_SENDER_ID</key>
+	<string>331057882530</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.totalfitinc.totalfit.dev</string>
+	<key>PROJECT_ID</key>
+	<string>totalfit-c3614</string>
+	<key>STORAGE_BUCKET</key>
+	<string>totalfit-c3614.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:331057882530:ios:d48af782a0735fa984befb</string>
+	<key>DATABASE_URL</key>
+	<string>https://totalfit-c3614.firebaseio.com</string>
+</dict>
+</plist>

@@ -1,0 +1,60 @@
+name: core
+publish_to: none
+description: Globally used functionality.
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.2
+  http: ^0.13.0
+  logger: ^1.1.0
+  device_info: ^2.0.2
+  path_provider: 2.0.1
+  async: any
+  synchronized: ^3.0.0
+  flutter_secure_storage: 4.1.0
+  shared_preferences: ^2.0.11
+  get_it: ^7.1.3
+  connectivity: ^3.0.6
+  rxdart: ^0.27.2
+  intl_utils: <=2.6.1
+  flutter_bloc: ^7.2.0
+  equatable: ^2.0.3
+  flutter_native_timezone: <=2.0.0
+  intl: <=0.17.0
+  vibration: ^1.7.4-nullsafety.0
+  just_audio: ^0.9.20
+  redux_logging: 0.5.0
+  flutter_redux: 0.8.2
+  wakelock: ^0.6.1+2
+  firebase_remote_config: ^2.0.4
+  audio_session: ^0.1.6+1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^1.0.0
+
+flutter:
+  uses-material-design: true
+
+
+  # This section identifies your Flutter project as a module meant for
+  # embedding in a native host app.  These identifiers should _not_ ordinarily
+  # be changed after generation - they are used to ensure that the tooling can
+  # maintain consistency when adding or modifying assets and plugins.
+  # They also do not have any bearing on your native host application's
+  # identifiers, which may be completely independent or the same as these.
+  module:
+    androidX: true
+    androidPackage: com.totalfit.mobile.core.core
+    iosBundleIdentifier: com.totalfit.mobile.core.core
+
+flutter_intl:
+  enabled: true

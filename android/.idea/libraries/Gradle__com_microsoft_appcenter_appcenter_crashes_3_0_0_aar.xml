@@ -1,0 +1,36 @@
+<component name="libraryTable">
+  <library name="Gradle: com.microsoft.appcenter:appcenter-crashes:3.0.0@aar">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/48aae5ac8bb872192008b1f9be93c7c6/jetified-appcenter-crashes-3.0.0/annotations.zip!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/bd612ebf664a77e301e82add4ee52654/jetified-appcenter-crashes-3.0.0/annotations.zip!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/815eacdec575ff08c96c91043c0d458d/jetified-appcenter-crashes-3.0.0/annotations.zip!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b28785f1f74252e5fc098eec107e2e2a/jetified-appcenter-crashes-3.0.0/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/48aae5ac8bb872192008b1f9be93c7c6/jetified-appcenter-crashes-3.0.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/48aae5ac8bb872192008b1f9be93c7c6/jetified-appcenter-crashes-3.0.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/48aae5ac8bb872192008b1f9be93c7c6/jetified-appcenter-crashes-3.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c77f56ba6152234e991c451f3c0c359f/jetified-appcenter-crashes-3.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/54edc8d8880c10625fa9f36a323d921f/jetified-appcenter-crashes-3.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/5c0dbe989834acacd53cd2ade64317df/jetified-appcenter-crashes-3.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/bfa4d17127187e2f214127d72df762da/jetified-appcenter-crashes-3.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/42cf488aa553f576fe51f96db90df3d2/jetified-appcenter-crashes-3.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/08e809f1f052408505b07d13cbdc7578/jetified-appcenter-crashes-3.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/bd612ebf664a77e301e82add4ee52654/jetified-appcenter-crashes-3.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/bd612ebf664a77e301e82add4ee52654/jetified-appcenter-crashes-3.0.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/bd612ebf664a77e301e82add4ee52654/jetified-appcenter-crashes-3.0.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/815eacdec575ff08c96c91043c0d458d/jetified-appcenter-crashes-3.0.0/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/815eacdec575ff08c96c91043c0d458d/jetified-appcenter-crashes-3.0.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/815eacdec575ff08c96c91043c0d458d/jetified-appcenter-crashes-3.0.0/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b28785f1f74252e5fc098eec107e2e2a/jetified-appcenter-crashes-3.0.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b28785f1f74252e5fc098eec107e2e2a/jetified-appcenter-crashes-3.0.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b28785f1f74252e5fc098eec107e2e2a/jetified-appcenter-crashes-3.0.0/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.microsoft.appcenter/appcenter-crashes/3.0.0/1f725a8387eac672260fae85b649277ba71a9995/appcenter-crashes-3.0.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.microsoft.appcenter/appcenter-crashes/3.0.0/f38c6beb656bae4b27948c3569d6e50b91adddae/appcenter-crashes-3.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

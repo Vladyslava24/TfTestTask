@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "331057882530",
+    "firebase_url": "https://totalfit-c3614.firebaseio.com",
+    "project_id": "totalfit-c3614",
+    "storage_bucket": "totalfit-c3614.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:331057882530:android:bce3c05631d37dba84befb",
+        "android_client_info": {
+          "package_name": "com.totalfit.mobile.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "331057882530-bqqrjsdpcsvse92lh3bked0me8489qma.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAgNhcu1nRQkM0-RpKX7KCw3nPDPD1l2A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "331057882530-bqqrjsdpcsvse92lh3bked0me8489qma.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

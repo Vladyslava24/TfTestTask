@@ -1,0 +1,171 @@
+{
+  "date": "2021-01-26",
+  "hexagonState": {
+    "physical": 90,
+    "emotional": 100,
+    "intellectual": 30,
+    "spiritual": 0,
+    "social": 0,
+    "union": 0
+  },
+  "storyDone": false,
+  "iWillStatements": [
+  ],
+  "wisdomDone": false,
+  "recommendedWorkout": {
+    "id": "15",
+    "theme": "MISSOURI",
+    "image": "https://totalfit-app-images.s3-eu-west-1.amazonaws.com/MissouriWorkout.jpg",
+    "skillImage": "https://totalfit-app-images.s3-eu-west-1.amazonaws.com/PlankSkill.jpg",
+    "wodType": "FOR_TIME",
+    "estimatedTime": 30,
+    "difficultyLevel": "Intermediate",
+    "equipment": [
+      "No equipment"
+    ]
+  },
+  "healthyLifestyleHabitProgress": [
+  ],
+  "story": {
+    "id": "54",
+    "name": "Carl and Hans",
+    "story": "A rich landowner named Carl often rode around his estate, so that he could congratulate himself on his great wealth. One day while riding on his favorite horse, he saw Hans, an old tenant farmer. Hans was sitting under a tree when Carl rode by.\r\n\r\nHans called out, \"I was just thanking God for my food.\"\r\n\r\nCarl replied, \"If that's all I had to eat, I wouldn't feel like giving thanks.\"\r\n \r\nHans replied, \"God has given me everything I need, and I am thankful for it.\" \r\nThen he added, \"It's strange you should come by today, because I had a dream last night. In my dream someone told me....'The richest man in the valley will die tonight.' I don't know what it means, but I thought I ought to tell you.\" \r\nCarl snorted. \"Dreams are nonsense,\" he said and galloped away, but he could not forget Hans' words…'The richest man in the valley will die tonight'. \r\nHe was obviously the richest man in the valley, so that evening he invited a doctor to his house. He told the doctor what Hans had said -- but after a thorough examination, the doctor told the wealthy landowner, \"Carl, you're as strong and healthy as a horse. There's no way you're going to die tonight!\" \r\nNevertheless, for assurance, the doctor stayed with Carl, and they played cards throughout the night. As the doctor left the next morning, Carl apologized for becoming so upset over the old man's dream.\r\nA few hours later, a messenger arrived at Carl's door. \r\n\"What is it?\" he demanded. \r\nThe messenger explained, \"It's about your tenant, old Hans. He died in his sleep last night.\"\r\n \r\n(You don't need money to be rich; be grateful for what you have in life, and you will feel enriched.)",
+    "truthToRemember": "\"Do not be anxious about anything, but in every situation, by prayer and petition, with thanksgiving, present your requests to God.\"\r\n\"What good is it for someone to gain the whole world, yet forfeit their soul?\"",
+    "image": "https://totalfit-app-images.s3-eu-west-1.amazonaws.com/CarlAndHans.jpg",
+    "estimatedReadingTime": 2,
+    "author": "TOTALFIT",
+    "shared": true
+  },
+  "wisdomOfTheDay": {
+    "id": "840",
+    "name": "Strength",
+    "text": "Strength is the ability of a muscular unit, or combination of muscular units, to apply force. It is one of the 10 physical skills that we use in our training. \r\n\r\nLean muscle mass naturally diminishes with age. You'll increase the percentage of fat in your body if you don't do anything to replace the lean muscle you lose over time. Strength training can help you preserve and enhance your muscle mass at any age.\r\n]\r\nStrength training can be done at home or in the gym. Common choices include:\r\nBody weight. You can do many exercises with little or no equipment i.e. Body weight exercise.\r\n\r\nResistance tubing. Resistance tubing provides resistance when stretched. You can choose from many types of resistance tubes in nearly any sporting goods store.\r\n\r\nFree weights. Barbells and dumbbells are classic strength training tools. \r\n\r\nWeight machines. You can easily find them at fitness centers.\r\n\r\nThe Department of Health and Human Services recommends incorporating strength training exercises for all major muscle groups into a fitness routine at least two times a week.\r\n\r\nAs you incorporate strength training exercises into your fitness routine, you may notice improvement in your strength over time. As your muscle mass increases, you'll likely be able to lift weight more easily and for longer periods of time. If you keep it up, you can continue to increase your strength, even if you're not in shape when you begin.\r\n\r\n\r\nSource: Strength training: Get stronger, leaner, healthier https://www.mayoclinic.org/healthy-lifestyle/fitness/in-depth/strength-training/art-20046670",
+    "image": "https://totalfit-app-images.s3-eu-west-1.amazonaws.com/w014.jpg",
+    "estimatedReadingTime": 1,
+    "finishDate": null,
+    "done": false
+  },
+  "environmental": {
+    "environmentalRecord": null,
+    "widgetConfig": {
+      "minValue": 10,
+      "maxValue": 120,
+      "step": 1,
+      "minValueTitle": "10 min",
+      "maxValueTitle": "2+ hours",
+      "collapsedStateImage": "https://totalfit-app-images.s3-eu-west-1.amazonaws.com/envir%403x.jpg",
+      "expandedStateImage": "https://totalfit-app-images.s3-eu-west-1.amazonaws.com/envir%403x.jpg"
+    }
+  },
+  "workoutProgress": [
+    {
+      "id": "881",
+      "points": 0,
+      "startedAt": "2021-01-26T09:42:26Z",
+      "roundCount": 1,
+      "workoutPhase": "WOD",
+      "workoutDuration": 93700,
+      "skillTechniqueRate": 4,
+      "warmupStageDuration": 90000,
+      "skillStageDuration": 1000,
+      "wodStageDuration": 2700,
+      "cooldownStageDuration": null,
+      "warmupExerciseDurations": [
+        {
+          "exerciseName": "Inch Worms",
+          "exerciseDuration": 18000,
+          "workoutPhase": "WARMUP"
+        },
+        {
+          "exerciseName": "Side Plank Left",
+          "exerciseDuration": 21000,
+          "workoutPhase": "WARMUP"
+        },
+        {
+          "exerciseName": "Side Plank Right",
+          "exerciseDuration": 24000,
+          "workoutPhase": "WARMUP"
+        },
+        {
+          "exerciseName": "Air Squats",
+          "exerciseDuration": 27000,
+          "workoutPhase": "WARMUP"
+        }
+      ],
+      "skillExerciseDurations": [
+        {
+          "exerciseName": "Squat Jumps",
+          "exerciseDuration": 1000,
+          "workoutPhase": "SKILL"
+        }
+      ],
+      "wodExerciseDurations": [
+        {
+          "exerciseName": "Jumping Jacks",
+          "exerciseDuration": 2000,
+          "workoutPhase": "WOD"
+        },
+        {
+          "exerciseName": "Crunches",
+          "exerciseDuration": 3000,
+          "workoutPhase": "WOD"
+        },
+        {
+          "exerciseName": "Leg Raises",
+          "exerciseDuration": 4000,
+          "workoutPhase": "WOD"
+        },
+        {
+          "exerciseName": "Burpee",
+          "exerciseDuration": 5000,
+          "workoutPhase": "WOD"
+        },
+        {
+          "exerciseName": "Reverse Lunges",
+          "exerciseDuration": 6000,
+          "workoutPhase": "WOD"
+        },
+        {
+          "exerciseName": "Push-ups",
+          "exerciseDuration": 7000,
+          "workoutPhase": "WOD"
+        }
+      ],
+      "cooldownExerciseDurations": [
+      ],
+      "workout": {
+        "id": "19",
+        "theme": "ARKANSAS",
+        "image": "https://totalfit-app-images.s3-eu-west-1.amazonaws.com/ArkansasWorkout.jpg",
+        "skillImage": "https://totalfit-app-images.s3-eu-west-1.amazonaws.com/KippingPullUpsSkill.jpg",
+        "wodType": "FOR_TIME",
+        "estimatedTime": 40,
+        "difficultyLevel": "Intermediate",
+        "equipment": [
+          "No equipment"
+        ]
+      },
+      "answeredQuestions": [
+        {
+          "id": "2613",
+          "questionId": "3",
+          "question": "What is stressing you out?",
+          "answer": "I'm stressed about finances"
+        },
+        {
+          "id": "2612",
+          "questionId": "2",
+          "question": "What are you thankful for?",
+          "answer": "I'm thankful for work, health"
+        },
+        {
+          "id": "2614",
+          "questionId": "1",
+          "question": "How are you feeling today?",
+          "answer": "5"
+        }
+      ],
+      "finished": false
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+name: mood_usecase
+version: 1.0.1
+
+publish_to: none
+
+environment:
+  sdk: '>=2.14.0 <3.0.0'
+
+dependencies:
+  mood_data:
+    path: ../data
+  intl: <=0.17.0

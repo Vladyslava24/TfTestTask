@@ -1,0 +1,189 @@
+{
+  "id": "11",
+  "theme": "VISTULA",
+  "image": "https://totalfit-app-images.s3-eu-west-1.amazonaws.com/VistulaWorkout.jpg",
+  "wodType": "FOR_TIME",
+  "difficultyLevel": "Beginner",
+  "skillImage": "https://totalfit-app-images.s3-eu-west-1.amazonaws.com/WalkingLungesSkill.jpg",
+  "estimatedTime": 25,
+  "quantity": 1,
+  "metrics": "ROUNDS",
+  "warmupRounds": 0,
+  "plan": "FREE",
+  "badge": "EMPTY",
+  "equipment": [
+    "No equipment"
+  ],
+  "warmup": [
+    {
+      "id": null,
+      "type": "WARMUP",
+      "name": "Shoulder Arm Backward Cirlcles",
+      "quantity": 12,
+      "video480": "https://totalfit-workout-videos.s3-eu-west-1.amazonaws.com/ShoulderArmBackwardCirlcles480.mp4",
+      "video720": "https://totalfit-workout-videos.s3-eu-west-1.amazonaws.com/ShoulderArmBackwardCirlcles720.mp4",
+      "video1080": "https://totalfit-workout-videos.s3-eu-west-1.amazonaws.com/ShoulderArmBackwardCirlcles1080.mp4",
+      "videoVertical": "https://totalfit-workout-videos.s3-eu-west-1.amazonaws.com/ShoulderArmBackwardCirlclesVertical.mp4",
+      "tag": "STRETCHING",
+      "previewImage": "https://totalfit-app-images.s3-eu-west-1.amazonaws.com/ShoulderArmBackwardCirlclesPreview.jpg",
+      "metrics": "REPS"
+    },
+    {
+      "id": null,
+      "type": "WARMUP",
+      "name": "Shoulder Arm Forward Cirlcles",
+      "quantity": 12,
+      "video480": "https://totalfit-workout-videos.s3-eu-west-1.amazonaws.com/ShoulderArmForwardCirlcles480.mp4",
+      "video720": "https://totalfit-workout-videos.s3-eu-west-1.amazonaws.com/ShoulderArmForwardCirlcles720.mp4",
+      "video1080": "https://totalfit-workout-videos.s3-eu-west-1.amazonaws.com/ShoulderArmForwardCirlcles1080.mp4",
+      "videoVertical": "https://totalfit-workout-videos.s3-eu-west-1.amazonaws.com/ShoulderArmForwardCirlclesVertical.mp4",
+      "tag": "STRETCHING",
+      "previewImage": "https://totalfit-app-images.s3-eu-west-1.amazonaws.com/ShoulderArmForwardCirlclesPreview.jpg",
+      "metrics": "REPS"
+    },
+    {
+      "id": null,
+      "type": "WARMUP",
+      "name": "Reverse Lunges",
+      "quantity": 20,
+      "video480": "https://totalfit-workout-videos.s3-eu-west-1.amazonaws.com/ReverseLunges480.mp4",
+      "video720": "https://totalfit-workout-videos.s3-eu-west-1.amazonaws.com/ReverseLunges720.mp4",
+      "video1080": "https://totalfit-workout-videos.s3-eu-west-1.amazonaws.com/ReverseLunges1080.mp4",
+      "videoVertical": "https://totalfit-workout-videos.s3-eu-west-1.amazonaws.com/ReverseLungesVertical.mp4",
+      "tag": "GYMNASTIC",
+      "previewImage": "https://totalfit-app-images.s3-eu-west-1.amazonaws.com/ReverseLungesPreview.jpg",
+      "metrics": "REPS"
+    }
+  ],
+  "wod": [
+    {
+      "id": null,
+      "type": "WOD",
+      "name": "Burpee",
+      "quantity": 30,
+      "video480": "https://totalfit-workout-videos.s3-eu-west-1.amazonaws.com/Burpees480.mp4",
+      "video720": "https://totalfit-workout-videos.s3-eu-west-1.amazonaws.com/Burpees720.mp4",
+      "video1080": "https://totalfit-workout-videos.s3-eu-west-1.amazonaws.com/Burpees1080.mp4",
+      "videoVertical": "https://totalfit-workout-videos.s3-eu-west-1.amazonaws.com/BurpeesVertical.mp4",
+      "tag": "GYMNASTIC",
+      "previewImage": "https://totalfit-app-images.s3-eu-west-1.amazonaws.com/BurpeesPreview.jpg",
+      "metrics": "REPS"
+    },
+    {
+      "id": null,
+      "type": "WOD",
+      "name": "Air Squats",
+      "quantity": 30,
+      "video480": "https://totalfit-workout-videos.s3-eu-west-1.amazonaws.com/AirSquats480.mp4.mp4",
+      "video720": "https://totalfit-workout-videos.s3-eu-west-1.amazonaws.com/AirSquats720.mp4",
+      "video1080": "https://totalfit-workout-videos.s3-eu-west-1.amazonaws.com/AirSquats1080.mp4",
+      "videoVertical": "https://totalfit-workout-videos.s3-eu-west-1.amazonaws.com/AirSquatsVertical.mp4",
+      "tag": "GYMNASTIC",
+      "previewImage": "https://totalfit-app-images.s3-eu-west-1.amazonaws.com/AirSquatsPreview.jpg",
+      "metrics": "REPS"
+    },
+    {
+      "id": null,
+      "type": "WOD",
+      "name": "Sit-ups",
+      "quantity": 30,
+      "video480": "https://totalfit-workout-videos.s3-eu-west-1.amazonaws.com/SitUps480.mp4",
+      "video720": "https://totalfit-workout-videos.s3-eu-west-1.amazonaws.com/SitUps720.mp4",
+      "video1080": "https://totalfit-workout-videos.s3-eu-west-1.amazonaws.com/SitUps1080.mp4",
+      "videoVertical": "https://totalfit-workout-videos.s3-eu-west-1.amazonaws.com/SitUpsVertical.mp4",
+      "tag": "GYMNASTIC",
+      "previewImage": "https://totalfit-app-images.s3-eu-west-1.amazonaws.com/SitUpsPreview.jpg",
+      "metrics": "REPS"
+    }
+  ],
+  "cooldown": [
+    {
+      "id": null,
+      "type": "COOLDOWN",
+      "name": "Cobra Stretch",
+      "quantity": 60,
+      "video480": "https://totalfit-workout-videos.s3-eu-west-1.amazonaws.com/CobraAndBackStretch480.mp4",
+      "video720": "https://totalfit-workout-videos.s3-eu-west-1.amazonaws.com/CobraAndBackStretch720.mp4",
+      "video1080": "https://totalfit-workout-videos.s3-eu-west-1.amazonaws.com/CobraAndBackStretch1080.mp4",
+      "videoVertical": "https://totalfit-workout-videos.s3-eu-west-1.amazonaws.com/CobraAndBackStretchVertical.mp4",
+      "tag": "STRETCHING",
+      "previewImage": "https://totalfit-app-images.s3-eu-west-1.amazonaws.com/CobraAndBackStretchPreview.jpg",
+      "metrics": "SEC"
+    },
+    {
+      "id": null,
+      "type": "COOLDOWN",
+      "name": "Pigeon Stretch Left",
+      "quantity": 40,
+      "video480": "https://totalfit-workout-videos.s3-eu-west-1.amazonaws.com/PigeonStretch480.mp4",
+      "video720": "https://totalfit-workout-videos.s3-eu-west-1.amazonaws.com/PigeonStretch720.mp4",
+      "video1080": "https://totalfit-workout-videos.s3-eu-west-1.amazonaws.com/PigeonStretch1080.mp4",
+      "videoVertical": "https://totalfit-workout-videos.s3-eu-west-1.amazonaws.com/PigeonStretchLeftVertical.mp4",
+      "tag": "STRETCHING",
+      "previewImage": "https://totalfit-app-images.s3-eu-west-1.amazonaws.com/PigeonStretchLeftPreview.jpg",
+      "metrics": "SEC"
+    },
+    {
+      "id": null,
+      "type": "COOLDOWN",
+      "name": "Pigeon Stretch Right",
+      "quantity": 40,
+      "video480": "https://totalfit-workout-videos.s3-eu-west-1.amazonaws.com/PigeonStretch480.mp4",
+      "video720": "https://totalfit-workout-videos.s3-eu-west-1.amazonaws.com/PigeonStretch720.mp4",
+      "video1080": "https://totalfit-workout-videos.s3-eu-west-1.amazonaws.com/PigeonStretch1080.mp4",
+      "videoVertical": "https://totalfit-workout-videos.s3-eu-west-1.amazonaws.com/PigeonStretchRightVertical.mp4",
+      "tag": "STRETCHING",
+      "previewImage": "https://totalfit-app-images.s3-eu-west-1.amazonaws.com/PigeonStretchRightPreview.jpg",
+      "metrics": "SEC"
+    },
+    {
+      "id": null,
+      "type": "COOLDOWN",
+      "name": "Figure 4 Stretch",
+      "quantity": 60,
+      "video480": "https://totalfit-workout-videos.s3-eu-west-1.amazonaws.com/Figure4Stretch480.mp4",
+      "video720": "https://totalfit-workout-videos.s3-eu-west-1.amazonaws.com/Figure4Stretch720.mp4",
+      "video1080": "https://totalfit-workout-videos.s3-eu-west-1.amazonaws.com/Figure4Stretch1080.mp4",
+      "videoVertical": "https://totalfit-workout-videos.s3-eu-west-1.amazonaws.com/Figure4StretchVertical.mp4",
+      "tag": "STRETCHING",
+      "previewImage": "https://totalfit-app-images.s3-eu-west-1.amazonaws.com/Figure4StretchPreview.jpg",
+      "metrics": "SEC"
+    }
+  ],
+  "skill": {
+    "id": null,
+    "type": "SKILL",
+    "name": "Walking Lunges",
+    "quantity": 0,
+    "video480": "https://totalfit-workout-videos.s3-eu-west-1.amazonaws.com/WalkingLunges480.mp4",
+    "video720": "https://totalfit-workout-videos.s3-eu-west-1.amazonaws.com/WalkingLunges720.mp4",
+    "video1080": "https://totalfit-workout-videos.s3-eu-west-1.amazonaws.com/WalkingLunges1080.mp4",
+    "videoVertical": "https://totalfit-workout-videos.s3-eu-west-1.amazonaws.com/WalkingLungesVertical.mp4",
+    "tag": "STRETCHING",
+    "previewImage": "https://totalfit-app-images.s3-eu-west-1.amazonaws.com/WalkingLungesPreview.jpg",
+    "metrics": "EMPTY"
+  },
+  "questions": [
+    {
+      "id": 1,
+      "question": "How are you feeling today?",
+      "questionType": "RATE",
+      "order": 1,
+      "reward": 40
+    },
+    {
+      "id": 2,
+      "question": "What are you thankful for?",
+      "questionType": "TEXT",
+      "order": 2,
+      "reward": 30
+    },
+    {
+      "id": 3,
+      "question": "What is stressing you out?",
+      "questionType": "TEXT",
+      "order": 3,
+      "reward": 30
+    }
+  ]
+}

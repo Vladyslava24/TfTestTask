@@ -1,0 +1,32 @@
+name: mood_ui
+version: 1.0.1
+
+publish_to: 'none'
+
+environment:
+  sdk: '>=2.14.0 <3.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  core:
+    path: ../../../core
+  get_it: <=7.1.3
+  shimmer: <=2.0.0
+  flutter_bloc: <8.0.0
+  mood_usecase:
+    path: ../usecase
+  ui_kit:
+    path: ../../../ui_kit
+  flutter_localizations:
+    sdk: flutter
+  intl: ^0.17.0
+
+flutter:
+  generate: true
+  uses-material-design: true
+
+  module:
+    androidX: true
+    androidPackage: com.totalfit.mobile.mood.ui
+    iosBundleIdentifier: com.totalfit.mobile.mood.ui

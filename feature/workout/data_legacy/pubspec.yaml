@@ -1,0 +1,19 @@
+name: workout_data_legacy
+version: 1.0.1
+
+publish_to: none
+
+environment:
+  sdk: '>=2.14.0 <3.0.0'
+
+dependencies:
+  workout_use_case:
+    path: ../../workout/use_case
+  workout_data:
+    path: ../data
+
+
+dev_dependencies:
+  build_runner: ^2.1.5
+
+

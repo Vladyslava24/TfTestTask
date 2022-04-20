@@ -1,0 +1,1 @@
+enum CalendarMode { Weekly, Monthly }

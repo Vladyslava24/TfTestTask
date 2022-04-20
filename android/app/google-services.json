@@ -1,0 +1,101 @@
+{
+  "project_info": {
+    "project_number": "331057882530",
+    "firebase_url": "https://totalfit-c3614.firebaseio.com",
+    "project_id": "totalfit-c3614",
+    "storage_bucket": "totalfit-c3614.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:331057882530:android:bce3c05631d37dba84befb",
+        "android_client_info": {
+          "package_name": "com.totalfit.mobile.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "331057882530-7lmi98g3ca0cqer59at3uprssmb30c5q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.totalfit.mobile.android",
+            "certificate_hash": "ca032c3b95e444656ff5c80fa1b5e76fbd72bba6"
+          }
+        },
+        {
+          "client_id": "331057882530-j7cnrevmsqan8uvt6i07u7sg7t49fi3p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.totalfit.mobile.android",
+            "certificate_hash": "0b239d3bf0dcc6e6f7b22f51742a9e4f2b9fa5ed"
+          }
+        },
+        {
+          "client_id": "331057882530-bqqrjsdpcsvse92lh3bked0me8489qma.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAgNhcu1nRQkM0-RpKX7KCw3nPDPD1l2A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "331057882530-bqqrjsdpcsvse92lh3bked0me8489qma.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "331057882530-1nhtncbep75tb6k6i9bpfr97apvksl6h.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.totalfit.mobile",
+                "app_store_id": "1525120077"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:331057882530:android:63600c872188148b84befb",
+        "android_client_info": {
+          "package_name": "com.totalfit.mobile.android.dev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "331057882530-bqqrjsdpcsvse92lh3bked0me8489qma.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAgNhcu1nRQkM0-RpKX7KCw3nPDPD1l2A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "331057882530-bqqrjsdpcsvse92lh3bked0me8489qma.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "331057882530-1nhtncbep75tb6k6i9bpfr97apvksl6h.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.totalfit.mobile",
+                "app_store_id": "1525120077"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

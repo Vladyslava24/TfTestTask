@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="Gradle: com.amplitude:android-sdk:2.29.2@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/7292dd3a257f744bc6e2065bdd7c0cae/jetified-android-sdk-2.29.2/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/7292dd3a257f744bc6e2065bdd7c0cae/jetified-android-sdk-2.29.2/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/7292dd3a257f744bc6e2065bdd7c0cae/jetified-android-sdk-2.29.2/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f216f041d66765b5ca3d791e2aa271ad/jetified-android-sdk-2.29.2/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f216f041d66765b5ca3d791e2aa271ad/jetified-android-sdk-2.29.2/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f216f041d66765b5ca3d791e2aa271ad/jetified-android-sdk-2.29.2/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amplitude/android-sdk/2.29.2/cf73c2b9f9307fbb9cacdc19b1e9b531cf8354b6/android-sdk-2.29.2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amplitude/android-sdk/2.29.2/f8b52f7ca7cf0faf4870d0e202f39016d1fe3de5/android-sdk-2.29.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

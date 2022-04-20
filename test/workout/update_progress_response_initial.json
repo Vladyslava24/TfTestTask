@@ -1,0 +1,67 @@
+{
+  "date":"2021-01-18",
+  "hexagonState":{
+    "physical":0,
+    "emotional":0,
+    "intellectual":0,
+    "spiritual":0,
+    "social":0,
+    "union":0
+  },
+  "storyDone":false,
+  "iWillStatements":[
+
+  ],
+  "wisdomDone":false,
+  "recommendedWorkout":{
+    "id":"4",
+    "theme":"THAMES",
+    "image":"https://totalfit-app-images.s3-eu-west-1.amazonaws.com/PowerCleanPreview.jpg",
+    "skillImage":"https://totalfit-app-images.s3-eu-west-1.amazonaws.com/PowerCleanSkill.jpg",
+    "wodType":"FOR_TIME",
+    "estimatedTime":30,
+    "difficultyLevel":"Advanced",
+    "equipment":[
+      "Barbell",
+      "Jump Rope",
+      "Dumbbells"
+    ]
+  },
+  "healthyLifestyleHabitProgress":[
+
+  ],
+  "story":{
+    "id":"18",
+    "name":"The King And His Hawk",
+    "story":"One morning a great king and warrior, rode out into the woods for a day's sport. On his wrist sat his favourite hawk, for in those days hawks were trained to hunt.  The day had been warm, and the king was very thirsty. His pet hawk left his wrist and flew away. It would be sure to find its way home. The king was riding slowly along, when to his joy, he saw some water trickling down over the edge of a rock. He knew that there was a spring farther up.  The king took a little silver cup from his hunting bag and held it so as to catch the slowly falling drops. It took a long time to fill the cup; and the king was so thirsty that he could hardly wait.   \r\n\r\nAt last it was nearly full. He put the cup to his lips, and was about to drink when suddenly, the cup was knocked from his hands.  The king looked up to see who had done this thing. It was his pet hawk. The king picked up the cup, and again held it to catch the trickling drops. When the cup was half full, he lifted it toward his mouth. But before it had touched his lips, the hawk swooped down again, and knocked it from his hands.    \r\n\r\nNow this happened a few times. The king was so overcome by anger that when the bird swooped down again, he struck it with his sword. The hawk fell to the ground and lay dying at its master's feet.   \"That is what you get for your pains,\" said the King. But when he looked for his cup, he found that it had fallen between two rocks, where he could not reach it.   \"At any rate, I will have a drink from that spring,\" he said to himself. With that he began to climb the steep bank to the place from which the water trickled. When he reached the pool, he noticed something lying in the pool, almost filling it. It was a huge, dead snake of the most poisonous kind.  The king stopped. He forgot his thirst. \"The hawk saved my life!\" he cried, \"and how did I repay him? He was my best friend, and I have killed him.\"    \r\n\r\nGenghis Khan le a sad lesson that day - and that was to never do anything in anger.",
+    "truthToRemember":"Do not act out of anger, a trusted set of eyes is good to have around",
+    "image":"https://totalfit-app-images.s3-eu-west-1.amazonaws.com/THE+KING+AND+HIS+HAWK.jpg",
+    "estimatedReadingTime":2,
+    "author":"TOTALFIT",
+    "shared":true
+  },
+  "wisdomOfTheDay":{
+    "id":"66",
+    "name":"Stamina",
+    "text":"Stamina is the ability to push yourself to your maximum potential for a given length of time. When you set out to build your stamina, you're working to increase the period of time during which you're able to perform at the peak of your abilities.\r\n\r\nWhen people think of stamina most often they think of endurance as well. Although both are important and are related in terms of physical fitness and activity, both terms accomplish also different tasks in the body. \r\nSo, what is the difference?\r\n\r\nWhile stamina is defined as the amount of time that a given group of muscles can perform at or near maximum capacity, endurance is defined as the maximum amount of time that a given group of muscles can perform a certain action. Another difference includes the idea that endurance is the ability to process and deliver oxygen to the body, while stamina is the ability to process and deliver energy to the body.\r\n\r\nIncreased stamina means reduced fatigue, less energy required to complete your daily to-do list, and better physical and mental health and well-being. \r\n\r\nHow to build stamina?\r\n1. Improve your aerobic capacity with interval training\r\n2. Incorporate strength training in your cardio routine\r\n3. Decrease recovery time between weight lifting sets\r\n4. Gradually increase the duration of your workouts\r\n6. Allow your body time to rest and recover\r\n\r\nSources: \r\n1) A beginner's guide to building stamina and boosting your endurance https://www.wellandgood.com/how-to-build-stamina/\r\n2) Stamina vs. Endurance, is there a big difference? https://myemail.constantcontact.com/Stamina-Vs--Endurance---Is-There-a-Big-Difference-.html?soid=1112845876170&aid=enTYig4ZEVY",
+    "image":"https://totalfit-app-images.s3-eu-west-1.amazonaws.com/w015.jpg",
+    "estimatedReadingTime":1,
+    "finishDate":null,
+    "done":false
+  },
+  "environmental":{
+    "environmentalRecord":null,
+    "widgetConfig":{
+      "minValue":10,
+      "maxValue":120,
+      "step":1,
+      "minValueTitle":"10 min",
+      "maxValueTitle":"2+ hours",
+      "collapsedStateImage":"https://totalfit-app-images.s3-eu-west-1.amazonaws.com/envir%403x.jpg",
+      "expandedStateImage":"https://totalfit-app-images.s3-eu-west-1.amazonaws.com/envir%403x.jpg"
+    }
+  },
+  "workoutProgress":[
+
+  ]
+}

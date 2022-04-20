@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.adjust.sdk:adjust-android:4.28.5">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.adjust.sdk/adjust-android/4.28.5/23c0844a010770b75bcfc8bbdf28411923b0b9e9/adjust-android-4.28.5.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.adjust.sdk/adjust-android/4.28.5/aa5d12cafbacc1d9e17f031a93c1a31f8c633d86/adjust-android-4.28.5-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.adjust.sdk/adjust-android/4.28.5/cd079e4e3295ebce806f05ff62478bc9ed9f809e/adjust-android-4.28.5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

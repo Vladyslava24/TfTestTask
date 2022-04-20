@@ -1,0 +1,24 @@
+<component name="libraryTable">
+  <library name="Gradle: com.revenuecat.purchases:purchases-core-strings:4.0.1@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/bbc43436e21eebc7b282e341fffa2a6b/jetified-purchases-core-strings-4.0.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/bbc43436e21eebc7b282e341fffa2a6b/jetified-purchases-core-strings-4.0.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/bbc43436e21eebc7b282e341fffa2a6b/jetified-purchases-core-strings-4.0.1/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/931e0c8abfdbb32c2346481779a2eae5/jetified-purchases-core-strings-4.0.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/931e0c8abfdbb32c2346481779a2eae5/jetified-purchases-core-strings-4.0.1/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/931e0c8abfdbb32c2346481779a2eae5/jetified-purchases-core-strings-4.0.1/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.revenuecat.purchases/purchases-core-strings/4.0.1/719ff286cd21465f9b309b1e9c8ed7722156cbc0/purchases-core-strings-4.0.1-javadoc.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.revenuecat.purchases/purchases-core-strings/4.0.1/719ff286cd21465f9b309b1e9c8ed7722156cbc0/purchases-core-strings-4.0.1-javadoc.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.revenuecat.purchases/purchases-core-strings/4.0.1/719ff286cd21465f9b309b1e9c8ed7722156cbc0/purchases-core-strings-4.0.1-javadoc.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.revenuecat.purchases/purchases-core-strings/4.0.1/719ff286cd21465f9b309b1e9c8ed7722156cbc0/purchases-core-strings-4.0.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.revenuecat.purchases/purchases-core-strings/4.0.1/12928d66621b35a741ec7e5473528611f243896e/purchases-core-strings-4.0.1-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.revenuecat.purchases/purchases-core-strings/4.0.1/12928d66621b35a741ec7e5473528611f243896e/purchases-core-strings-4.0.1-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.revenuecat.purchases/purchases-core-strings/4.0.1/12928d66621b35a741ec7e5473528611f243896e/purchases-core-strings-4.0.1-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.revenuecat.purchases/purchases-core-strings/4.0.1/12928d66621b35a741ec7e5473528611f243896e/purchases-core-strings-4.0.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

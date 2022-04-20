@@ -1,0 +1,109 @@
+name: ui_kit
+description: UI Kit
+
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.14.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_svg: ^1.0.3
+  cached_network_image: <= 3.1.0+1
+  transparent_image: <= 2.0.0
+  cupertino_icons: ^1.0.2
+  flutter_switch: ^0.3.2
+  flutter_spinkit: <=5.1.0
+  core:
+    path: ../core
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^1.0.0
+
+flutter:
+  uses-material-design: true
+  module:
+    androidX: true
+    androidPackage: com.totalfit.ui.ui
+    iosBundleIdentifier: com.totalfit.ui.ui
+
+  fonts:
+    - family: Roboto
+      fonts:
+        - asset: ../assets/fonts/Roboto-Thin.ttf
+          weight: 100
+        - asset: ../assets/fonts/Roboto-Light.ttf
+          weight: 300
+        - asset: ../assets/fonts/Roboto-Italic.ttf
+          style: italic
+          weight: 300
+        - asset: ../assets/fonts/Roboto-Regular.ttf
+          weight: 400
+        - asset: ../assets/fonts/Roboto-Medium.ttf
+          weight: 500
+        - asset: ../assets/fonts/Roboto-MediumItalic.ttf
+          style: italic
+          weight: 500
+        - asset: ../assets/fonts/Roboto-Bold.ttf
+          weight: 700
+        - asset: ../assets/fonts/Roboto-BoldItalic.ttf
+          style: italic
+          weight: 700
+    - family: Gilroy
+      fonts:
+        - asset: ../assets/fonts/Gilroy-Bold.ttf
+          weight: 700
+    - family: BottomNavBarIcon
+      fonts:
+        - asset: ../assets/fonts/BottomNavBarIcon.ttf
+    - family: OnboardingIcons
+      fonts:
+        - asset: ../assets/fonts/OnboardingIcons.ttf
+    - family: Social_icons
+      fonts:
+        - asset: ../assets/fonts/Social_icons.ttf
+    - family: HexagonIcons
+      fonts:
+        - asset: ../assets/fonts/HexagonIcons.ttf
+    - family: PlaybackIcons
+      fonts:
+        - asset: ../assets/fonts/PlaybackIcons.ttf
+    - family: ArrowIcon
+      fonts:
+        - asset: ../assets/fonts/ArrowIcon.ttf
+    - family: Triangle
+      fonts:
+        - asset: ../assets/fonts/Triangle.ttf
+    - family: Emotion
+      fonts:
+        - asset: ../assets/fonts/Emotion.ttf
+    - family: Sound
+      fonts:
+        - asset: ../assets/fonts/Sound.ttf
+    - family: CloudIcon
+      fonts:
+        - asset: ../assets/fonts/CloudIcon.ttf
+    - family: ProgramInfoIcons
+      fonts:
+        - asset: ../assets/fonts/ProgramInfoIcons.ttf
+    - family: ProgrammsIcon2
+      fonts:
+        - asset: ../assets/fonts/ProgrammsIcon2.ttf
+    - family: PTSerif-Regular
+      fonts:
+        - asset: ../assets/fonts/PTSerif-Regular.ttf
+  assets:
+    - ../assets/sounds/voice_message/
+    - ../assets/sounds/
+    - ../assets/images/
+    - ../assets/icons/
+    - ../assets/rive/
+    - ../assets/
+    - ../config/
+    -

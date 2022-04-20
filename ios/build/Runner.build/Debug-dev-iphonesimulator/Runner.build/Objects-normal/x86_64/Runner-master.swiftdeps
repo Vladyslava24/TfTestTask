@@ -1,0 +1,6 @@
+version: "Apple Swift version 5.6 (swiftlang-5.6.0.323.62 clang-1316.0.20.8)"
+options: "ee5c5e7b0ce3f33bc89689a44b7ab5f07544110d76f280a2dfa8d353c0f98326"
+build_start_time: [1649226030, 742977142]
+build_end_time: [1649226030, 851881980]
+inputs:
+  "/Users/sg/Projects/Totalfit/ios/Runner/AppDelegate.swift": !private [1640589794, 992137908]

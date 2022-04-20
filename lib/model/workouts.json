@@ -1,0 +1,128 @@
+{
+  "pagesCount": 1,
+  "totalElements": "1",
+  "objects": [
+    {
+      "id": "1",
+      "theme": "BASIC WORKOUT",
+      "image": "https://totalfit-images.s3-eu-west-1.amazonaws.com/workout-image.png",
+      "wodType": "FOR_TIME",
+      "difficultyLevel": "BEGINNER",
+      "warmup": [
+        {
+          "type": "WARMUP",
+          "name": "Barbell Deep Squat",
+          "quantity": 10,
+          "video480": "https://totalfit-exercises.s3-eu-west-1.amazonaws.com/DumbbellSquatCleanThruster480p.mp4",
+          "video720": "https://totalfit-exercises.s3-eu-west-1.amazonaws.com/DumbbellSquatCleanThruster720p.mp4",
+          "video1080": "https://totalfit-exercises.s3-eu-west-1.amazonaws.com/DumbbellSquatCleanThruster1080p.mp4",
+          "videoVertical": "https://totalfit-exercises.s3-eu-west-1.amazonaws.com/DumbbellSquatCleanThrusterVertical.mp4",
+          "tag": "MONO_STRUCTURAL"
+        },
+        {
+          "type": "WARMUP",
+          "name": "Ankle Circles",
+          "quantity": 7,
+          "video480": "https://totalfit-exercises.s3-eu-west-1.amazonaws.com/DumbbellSquatCleanThruster480p.mp4",
+          "video720": "https://totalfit-exercises.s3-eu-west-1.amazonaws.com/DumbbellSquatCleanThruster720p.mp4",
+          "video1080": "https://totalfit-exercises.s3-eu-west-1.amazonaws.com/DumbbellSquatCleanThruster1080p.mp4",
+          "videoVertical": "https://totalfit-exercises.s3-eu-west-1.amazonaws.com/DumbbellSquatCleanThrusterVertical.mp4",
+          "tag": "WEIGHTLIFTING"
+        },
+        {
+          "type": "WARMUP",
+          "name": "Air Bike",
+          "quantity": 5,
+          "video480": "https://totalfit-exercises.s3-eu-west-1.amazonaws.com/DumbbellSquatCleanThruster480p.mp4",
+          "video720": "https://totalfit-exercises.s3-eu-west-1.amazonaws.com/DumbbellSquatCleanThruster720p.mp4",
+          "video1080": "https://totalfit-exercises.s3-eu-west-1.amazonaws.com/DumbbellSquatCleanThruster1080p.mp4",
+          "videoVertical": "https://totalfit-exercises.s3-eu-west-1.amazonaws.com/DumbbellSquatCleanThrusterVertical.mp4",
+          "tag": "GYMNASTIC"
+        }
+      ],
+      "wod": [
+        {
+          "type": "WOD",
+          "name": "Barbell Deep Squat",
+          "quantity": 10,
+          "video480": "https://totalfit-exercises.s3-eu-west-1.amazonaws.com/DumbbellSquatCleanThruster480p.mp4",
+          "video720": "https://totalfit-exercises.s3-eu-west-1.amazonaws.com/DumbbellSquatCleanThruster720p.mp4",
+          "video1080": "https://totalfit-exercises.s3-eu-west-1.amazonaws.com/DumbbellSquatCleanThruster1080p.mp4",
+          "videoVertical": "https://totalfit-exercises.s3-eu-west-1.amazonaws.com/DumbbellSquatCleanThrusterVertical.mp4",
+          "tag": "MONO_STRUCTURAL"
+        },
+        {
+          "type": "WOD",
+          "name": "Ankle Circles",
+          "quantity": 7,
+          "video480": "https://totalfit-exercises.s3-eu-west-1.amazonaws.com/DumbbellSquatCleanThruster480p.mp4",
+          "video720": "https://totalfit-exercises.s3-eu-west-1.amazonaws.com/DumbbellSquatCleanThruster720p.mp4",
+          "video1080": "https://totalfit-exercises.s3-eu-west-1.amazonaws.com/DumbbellSquatCleanThruster1080p.mp4",
+          "videoVertical": "https://totalfit-exercises.s3-eu-west-1.amazonaws.com/DumbbellSquatCleanThrusterVertical.mp4",
+          "tag": "WEIGHTLIFTING"
+        },
+        {
+          "type": "WOD",
+          "name": "Air Bike",
+          "quantity": 5,
+          "video480": "https://totalfit-exercises.s3-eu-west-1.amazonaws.com/DumbbellSquatCleanThruster480p.mp4",
+          "video720": "https://totalfit-exercises.s3-eu-west-1.amazonaws.com/DumbbellSquatCleanThruster720p.mp4",
+          "video1080": "https://totalfit-exercises.s3-eu-west-1.amazonaws.com/DumbbellSquatCleanThruster1080p.mp4",
+          "videoVertical": "https://totalfit-exercises.s3-eu-west-1.amazonaws.com/DumbbellSquatCleanThrusterVertical.mp4",
+          "tag": "GYMNASTIC"
+        }
+      ],
+      "cooldown": [
+        {
+          "type": "COOLDOWN",
+          "name": "Ankle Circles",
+          "quantity": 7,
+          "video480": "https://totalfit-exercises.s3-eu-west-1.amazonaws.com/DumbbellSquatCleanThruster480p.mp4",
+          "video720": "https://totalfit-exercises.s3-eu-west-1.amazonaws.com/DumbbellSquatCleanThruster720p.mp4",
+          "video1080": "https://totalfit-exercises.s3-eu-west-1.amazonaws.com/DumbbellSquatCleanThruster1080p.mp4",
+          "videoVertical": "https://totalfit-exercises.s3-eu-west-1.amazonaws.com/DumbbellSquatCleanThrusterVertical.mp4",
+          "tag": "WEIGHTLIFTING"
+        },
+        {
+          "type": "COOLDOWN",
+          "name": "Barbell Deep Squat",
+          "quantity": 10,
+          "video480": "https://totalfit-exercises.s3-eu-west-1.amazonaws.com/DumbbellSquatCleanThruster480p.mp4",
+          "video720": "https://totalfit-exercises.s3-eu-west-1.amazonaws.com/DumbbellSquatCleanThruster720p.mp4",
+          "video1080": "https://totalfit-exercises.s3-eu-west-1.amazonaws.com/DumbbellSquatCleanThruster1080p.mp4",
+          "videoVertical": "https://totalfit-exercises.s3-eu-west-1.amazonaws.com/DumbbellSquatCleanThrusterVertical.mp4",
+          "tag": "MONO_STRUCTURAL"
+        },
+        {
+          "type": "COOLDOWN",
+          "name": "Air Bike",
+          "quantity": 5,
+          "video480": "https://totalfit-exercises.s3-eu-west-1.amazonaws.com/DumbbellSquatCleanThruster480p.mp4",
+          "video720": "https://totalfit-exercises.s3-eu-west-1.amazonaws.com/DumbbellSquatCleanThruster720p.mp4",
+          "video1080": "https://totalfit-exercises.s3-eu-west-1.amazonaws.com/DumbbellSquatCleanThruster1080p.mp4",
+          "videoVertical": "https://totalfit-exercises.s3-eu-west-1.amazonaws.com/DumbbellSquatCleanThrusterVertical.mp4",
+          "tag": "GYMNASTIC"
+        }
+      ],
+      "skill": {
+        "type": "SKILL",
+        "name": "Air Bike",
+        "quantity": 0,
+        "video480": "https://totalfit-exercises.s3-eu-west-1.amazonaws.com/DumbbellSquatCleanThruster480p.mp4",
+        "video720": "https://totalfit-exercises.s3-eu-west-1.amazonaws.com/DumbbellSquatCleanThruster720p.mp4",
+        "video1080": "https://totalfit-exercises.s3-eu-west-1.amazonaws.com/DumbbellSquatCleanThruster1080p.mp4",
+        "videoVertical": "https://totalfit-exercises.s3-eu-west-1.amazonaws.com/DumbbellSquatCleanThrusterVertical.mp4",
+        "tag": "GYMNASTIC"
+      },
+      "story": {
+        "name": "story name",
+        "story": "STORY",
+        "truthToRemember": "some truth",
+        "shared": true
+      },
+      "healthyLifestyleHabit": {
+        "name": "good habit"
+      }
+    }
+  ]
+}

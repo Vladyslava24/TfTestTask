@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="Gradle: com.revenuecat.purchases:purchases-core-feature-identity:4.0.1@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/527f5357ed8923dfde462c6d365fe3b2/jetified-purchases-core-feature-identity-4.0.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/527f5357ed8923dfde462c6d365fe3b2/jetified-purchases-core-feature-identity-4.0.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/527f5357ed8923dfde462c6d365fe3b2/jetified-purchases-core-feature-identity-4.0.1/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/78d96b652d0c2d8f0aa207036ed7cf9a/jetified-purchases-core-feature-identity-4.0.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/78d96b652d0c2d8f0aa207036ed7cf9a/jetified-purchases-core-feature-identity-4.0.1/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/78d96b652d0c2d8f0aa207036ed7cf9a/jetified-purchases-core-feature-identity-4.0.1/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.revenuecat.purchases/purchases-core-feature-identity/4.0.1/cdea7206b7c45027988e4bc2e7b6381d814a51ff/purchases-core-feature-identity-4.0.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.revenuecat.purchases/purchases-core-feature-identity/4.0.1/f65835493f1ec73e3a061b90733b6b47b196e5e/purchases-core-feature-identity-4.0.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

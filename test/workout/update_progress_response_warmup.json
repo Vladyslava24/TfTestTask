@@ -1,0 +1,138 @@
+{
+  "date": "2021-01-17",
+  "hexagonState": {
+    "physical": 10,
+    "emotional": 100,
+    "intellectual": 0,
+    "spiritual": 0,
+    "social": 0,
+    "union": 0
+  },
+  "storyDone": false,
+  "iWillStatements": [
+  ],
+  "wisdomDone": false,
+  "recommendedWorkout": {
+    "id": "5",
+    "theme": "AMAZON",
+    "image": "https://totalfit-app-images.s3-eu-west-1.amazonaws.com/AmazonWorkout.jpg",
+    "skillImage": "https://totalfit-app-images.s3-eu-west-1.amazonaws.com/RussianKettlebellSwingSkill.jpg",
+    "wodType": "FOR_TIME",
+    "estimatedTime": 30,
+    "difficultyLevel": "Intermediate",
+    "equipment": [
+      "Kettlebell",
+      "Metball",
+      "Barbell"
+    ]
+  },
+  "healthyLifestyleHabitProgress": [
+  ],
+  "story": {
+    "id": "19",
+    "name": "The Big Iron Door",
+    "story": "There once was this criminal who had committed a crime (Because, hey, that's what criminals do. That's their job!) Anyway, he was sent to the king for his punishment. The king told him he had a choice of two punishments. He could be hung by a rope. Or take what's behind the big, dark, scary, mysterious iron door. The criminal quickly decided on the rope. As the noose was being slipped on him, he turned to the king and asked: \"By the way, out of curiosity, what's behind that door?\" The king laughed and said: \"You know, it's funny, I offer everyone the same choice, and nearly everyone picks the rope.\"   \"So,\" said the criminal, \"Tell me. What's behind the door? I mean, obviously, I won't tell anyone,\" he said, pointing to the noose around his neck. The king paused then answered: \"Freedom, but it seems most people are so afraid of the unknown that they immediately take the rope.\"   In times of uncertainty, we can ask the question of 'Why is this happening?' or we can face the fear and not let it paralyze us. This will change our thinking from 'Why?' to 'What am I able to learn in this season of fear?'",
+    "truthToRemember": "You know that under pressure, your faith-life is forced into the open and shows its true colors. So don't try to get out of anything prematurely. Let it do its work so you become mature and well-developed, not deficient in any way.",
+    "image": "https://totalfit-app-images.s3-eu-west-1.amazonaws.com/TheBigIronDoor.jpg",
+    "estimatedReadingTime": 1,
+    "author": "TOTALFIT",
+    "shared": true
+  },
+  "wisdomOfTheDay": {
+    "id": "66",
+    "name": "Stamina",
+    "text": "Stamina is the ability to push yourself to your maximum potential for a given length of time. When you set out to build your stamina, you're working to increase the period of time during which you're able to perform at the peak of your abilities.\r\n\r\nWhen people think of stamina most often they think of endurance as well. Although both are important and are related in terms of physical fitness and activity, both terms accomplish also different tasks in the body. \r\nSo, what is the difference?\r\n\r\nWhile stamina is defined as the amount of time that a given group of muscles can perform at or near maximum capacity, endurance is defined as the maximum amount of time that a given group of muscles can perform a certain action. Another difference includes the idea that endurance is the ability to process and deliver oxygen to the body, while stamina is the ability to process and deliver energy to the body.\r\n\r\nIncreased stamina means reduced fatigue, less energy required to complete your daily to-do list, and better physical and mental health and well-being. \r\n\r\nHow to build stamina?\r\n1. Improve your aerobic capacity with interval training\r\n2. Incorporate strength training in your cardio routine\r\n3. Decrease recovery time between weight lifting sets\r\n4. Gradually increase the duration of your workouts\r\n6. Allow your body time to rest and recover\r\n\r\nSources: \r\n1) A beginner's guide to building stamina and boosting your endurance https://www.wellandgood.com/how-to-build-stamina/\r\n2) Stamina vs. Endurance, is there a big difference? https://myemail.constantcontact.com/Stamina-Vs--Endurance---Is-There-a-Big-Difference-.html?soid=1112845876170&aid=enTYig4ZEVY",
+    "image": "https://totalfit-app-images.s3-eu-west-1.amazonaws.com/w015.jpg",
+    "estimatedReadingTime": 1,
+    "finishDate": null,
+    "done": false
+  },
+  "environmental": {
+    "environmentalRecord": null,
+    "widgetConfig": {
+      "minValue": 10,
+      "maxValue": 120,
+      "step": 1,
+      "minValueTitle": "10 min",
+      "maxValueTitle": "2+ hours",
+      "collapsedStateImage": "https://totalfit-app-images.s3-eu-west-1.amazonaws.com/envir%403x.jpg",
+      "expandedStateImage": "https://totalfit-app-images.s3-eu-west-1.amazonaws.com/envir%403x.jpg"
+    }
+  },
+  "workoutProgress": [
+    {
+      "id": "734",
+      "points": 0,
+      "startedAt": "2021-01-17T12:42:56.894489+02:00",
+      "roundCount": null,
+      "workoutPhase": "WARMUP",
+      "workoutDuration": 90000,
+      "skillTechniqueRate": null,
+      "warmupStageDuration": 90000,
+      "skillStageDuration": null,
+      "wodStageDuration": null,
+      "cooldownStageDuration": null,
+      "warmupExerciseDurations": [
+        {
+          "exerciseName": "Inch Worms",
+          "exerciseDuration": 18000,
+          "workoutPhase": "WARMUP"
+        },
+        {
+          "exerciseName": "Side Plank Left",
+          "exerciseDuration": 21000,
+          "workoutPhase": "WARMUP"
+        },
+        {
+          "exerciseName": "Side Plank Right",
+          "exerciseDuration": 24000,
+          "workoutPhase": "WARMUP"
+        },
+        {
+          "exerciseName": "Air Squats",
+          "exerciseDuration": 27000,
+          "workoutPhase": "WARMUP"
+        }
+      ],
+      "skillExerciseDurations": [
+      ],
+      "wodExerciseDurations": [
+      ],
+      "cooldownExerciseDurations": [
+      ],
+      "workout": {
+        "id": "19",
+        "theme": "ARKANSAS",
+        "image": "https://totalfit-app-images.s3-eu-west-1.amazonaws.com/ArkansasWorkout.jpg",
+        "skillImage": "https://totalfit-app-images.s3-eu-west-1.amazonaws.com/KippingPullUpsSkill.jpg",
+        "wodType": "FOR_TIME",
+        "estimatedTime": 40,
+        "difficultyLevel": "Intermediate",
+        "equipment": [
+          "No equipment"
+        ]
+      },
+      "answeredQuestions": [
+        {
+          "id": "2171",
+          "questionId": "1",
+          "question": "How are you feeling today?",
+          "answer": "5"
+        },
+        {
+          "id": "2172",
+          "questionId": "2",
+          "question": "What are you thankful for?",
+          "answer": "answer to question: 2"
+        },
+        {
+          "id": "2173",
+          "questionId": "3",
+          "question": "What is stressing you out?",
+          "answer": "answer to question: 3"
+        }
+      ],
+      "finished": false
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "moodScreenEmptyCategory": "Категория не загружена",
+  "moodScreenTitle": "How do you feel today?",
+  "moodScreenStepTitle": "Looks like, you are {category}",
+  "moodScreenSelectionDescription": "But which words describe\nyour feelings best?",
+  "moodScreenReasonDescription": "Now! What makes you feel that way?",
+  "moodScreenEmptySelection": "Selection data not loaded",
+  "moodScreenEmptyReason": "Reason data not loaded",
+  "moodDialogErrorTitle": "Failure"
+}

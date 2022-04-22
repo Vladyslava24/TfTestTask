@@ -39,3 +39,4 @@ export 'package:ui_kit/src/icons/triangle_icons.dart';
 export 'package:ui_kit/src/theme/colors.dart';
 export 'package:ui_kit/src/widget/app_bar/app_bar_button_widget.dart';
 export 'package:ui_kit/src/widget/loader/loading_indicator.dart';
+export 'package:ui_kit/src/constants/text_constants.dart';

@@ -18,18 +18,23 @@ final _privateConstructorUsedError = UnsupportedError(
 class _$ProfileStateTearOff {
   const _$ProfileStateTearOff();
 
-  _ProfileState call(
-      {required HeaderItem headerItem,
-      required BodyMindSpiritStatisticItem bodyMindSpiritStatisticItem,
-      required TestButtonItem testButtonItem,
-      required bool loading,
-      required String error}) {
+  _ProfileState call({
+    required HeaderItem headerItem,
+    required HealthBalanceItem healthBalanceItem,
+    required BodyMindSpiritStatisticItem bodyMindSpiritStatisticItem,
+    required TestButtonItem testButtonItem,
+    required bool loading,
+    required String error,
+    required BodyMindSpiritStatistic bodyMindSpiritStatistic,
+  }) {
     return _ProfileState(
       headerItem: headerItem,
+      healthBalanceItem: healthBalanceItem,
       bodyMindSpiritStatisticItem: bodyMindSpiritStatisticItem,
       testButtonItem: testButtonItem,
       loading: loading,
       error: error,
+      bodyMindSpiritStatistic: bodyMindSpiritStatistic,
     );
   }
 }
@@ -40,30 +45,40 @@ const $ProfileState = _$ProfileStateTearOff();
 /// @nodoc
 mixin _$ProfileState {
   HeaderItem get headerItem => throw _privateConstructorUsedError;
-  BodyMindSpiritStatisticItem get bodyMindSpiritStatisticItem =>
-      throw _privateConstructorUsedError;
+
+  HealthBalanceItem get healthBalanceItem => throw _privateConstructorUsedError;
+
+  BodyMindSpiritStatisticItem get bodyMindSpiritStatisticItem => throw _privateConstructorUsedError;
+
   TestButtonItem get testButtonItem => throw _privateConstructorUsedError;
+
   bool get loading => throw _privateConstructorUsedError;
+
   String get error => throw _privateConstructorUsedError;
 
+  BodyMindSpiritStatistic get bodyMindSpiritStatistic => throw _privateConstructorUsedError;
+
   @JsonKey(ignore: true)
-  $ProfileStateCopyWith<ProfileState> get copyWith =>
-      throw _privateConstructorUsedError;
+  $ProfileStateCopyWith<ProfileState> get copyWith => throw _privateConstructorUsedError;
 }
 
 /// @nodoc
 abstract class $ProfileStateCopyWith<$Res> {
-  factory $ProfileStateCopyWith(
-          ProfileState value, $Res Function(ProfileState) then) =
+  factory $ProfileStateCopyWith(ProfileState value, $Res Function(ProfileState) then) =
       _$ProfileStateCopyWithImpl<$Res>;
-  $Res call(
-      {HeaderItem headerItem,
-      BodyMindSpiritStatisticItem bodyMindSpiritStatisticItem,
-      TestButtonItem testButtonItem,
-      bool loading,
-      String error});
+
+  $Res call({
+    HeaderItem headerItem,
+    HealthBalanceItem healthBalanceItem,
+    BodyMindSpiritStatisticItem bodyMindSpiritStatisticItem,
+    TestButtonItem testButtonItem,
+    bool loading,
+    String error,
+    BodyMindSpiritStatistic bodyMindSpiritStatistic,
+  });
 
   $HeaderItemCopyWith<$Res> get headerItem;
+
   $BodyMindSpiritStatisticItemCopyWith<$Res> get bodyMindSpiritStatisticItem;
 }
 
@@ -72,22 +87,29 @@ class _$ProfileStateCopyWithImpl<$Res> implements $ProfileStateCopyWith<$Res> {
   _$ProfileStateCopyWithImpl(this._value, this._then);
 
   final ProfileState _value;
+
   // ignore: unused_field
   final $Res Function(ProfileState) _then;
 
   @override
   $Res call({
     Object? headerItem = freezed,
+    Object? healthBalanceItem = freezed,
     Object? bodyMindSpiritStatisticItem = freezed,
     Object? testButtonItem = freezed,
     Object? loading = freezed,
     Object? error = freezed,
+    Object? bodyMindSpiritStatistic = freezed,
   }) {
     return _then(_value.copyWith(
       headerItem: headerItem == freezed
           ? _value.headerItem
           : headerItem // ignore: cast_nullable_to_non_nullable
               as HeaderItem,
+      healthBalanceItem: healthBalanceItem == freezed
+          ? _value.healthBalanceItem
+          : healthBalanceItem // ignore: cast_nullable_to_non_nullable
+              as HealthBalanceItem,
       bodyMindSpiritStatisticItem: bodyMindSpiritStatisticItem == freezed
           ? _value.bodyMindSpiritStatisticItem
           : bodyMindSpiritStatisticItem // ignore: cast_nullable_to_non_nullable
@@ -104,6 +126,10 @@ class _$ProfileStateCopyWithImpl<$Res> implements $ProfileStateCopyWith<$Res> {
           ? _value.error
           : error // ignore: cast_nullable_to_non_nullable
               as String,
+      bodyMindSpiritStatistic: bodyMindSpiritStatistic == freezed
+          ? _value.bodyMindSpiritStatistic
+          : bodyMindSpiritStatistic // ignore: cast_nullable_to_non_nullable
+              as BodyMindSpiritStatistic,
     ));
   }
 
@@ -116,29 +142,31 @@ class _$ProfileStateCopyWithImpl<$Res> implements $ProfileStateCopyWith<$Res> {
 
   @override
   $BodyMindSpiritStatisticItemCopyWith<$Res> get bodyMindSpiritStatisticItem {
-    return $BodyMindSpiritStatisticItemCopyWith<$Res>(
-        _value.bodyMindSpiritStatisticItem, (value) {
+    return $BodyMindSpiritStatisticItemCopyWith<$Res>(_value.bodyMindSpiritStatisticItem, (value) {
       return _then(_value.copyWith(bodyMindSpiritStatisticItem: value));
     });
   }
 }
 
 /// @nodoc
-abstract class _$ProfileStateCopyWith<$Res>
-    implements $ProfileStateCopyWith<$Res> {
-  factory _$ProfileStateCopyWith(
-          _ProfileState value, $Res Function(_ProfileState) then) =
+abstract class _$ProfileStateCopyWith<$Res> implements $ProfileStateCopyWith<$Res> {
+  factory _$ProfileStateCopyWith(_ProfileState value, $Res Function(_ProfileState) then) =
       __$ProfileStateCopyWithImpl<$Res>;
+
   @override
-  $Res call(
-      {HeaderItem headerItem,
-      BodyMindSpiritStatisticItem bodyMindSpiritStatisticItem,
-      TestButtonItem testButtonItem,
-      bool loading,
-      String error});
+  $Res call({
+    HeaderItem headerItem,
+    HealthBalanceItem healthBalanceItem,
+    BodyMindSpiritStatisticItem bodyMindSpiritStatisticItem,
+    TestButtonItem testButtonItem,
+    bool loading,
+    String error,
+    BodyMindSpiritStatistic bodyMindSpiritStatistic,
+  });
 
   @override
   $HeaderItemCopyWith<$Res> get headerItem;
+
   @override
   $BodyMindSpiritStatisticItemCopyWith<$Res> get bodyMindSpiritStatisticItem;
 }
@@ -146,8 +174,7 @@ abstract class _$ProfileStateCopyWith<$Res>
 /// @nodoc
 class __$ProfileStateCopyWithImpl<$Res> extends _$ProfileStateCopyWithImpl<$Res>
     implements _$ProfileStateCopyWith<$Res> {
-  __$ProfileStateCopyWithImpl(
-      _ProfileState _value, $Res Function(_ProfileState) _then)
+  __$ProfileStateCopyWithImpl(_ProfileState _value, $Res Function(_ProfileState) _then)
       : super(_value, (v) => _then(v as _ProfileState));
 
   @override
@@ -156,16 +183,22 @@ class __$ProfileStateCopyWithImpl<$Res> extends _$ProfileStateCopyWithImpl<$Res>
   @override
   $Res call({
     Object? headerItem = freezed,
+    Object? healthBalanceItem = freezed,
     Object? bodyMindSpiritStatisticItem = freezed,
     Object? testButtonItem = freezed,
     Object? loading = freezed,
     Object? error = freezed,
+    Object? bodyMindSpiritStatistic = freezed,
   }) {
     return _then(_ProfileState(
       headerItem: headerItem == freezed
           ? _value.headerItem
           : headerItem // ignore: cast_nullable_to_non_nullable
               as HeaderItem,
+      healthBalanceItem: healthBalanceItem == freezed
+          ? _value.healthBalanceItem
+          : healthBalanceItem // ignore: cast_nullable_to_non_nullable
+              as HealthBalanceItem,
       bodyMindSpiritStatisticItem: bodyMindSpiritStatisticItem == freezed
           ? _value.bodyMindSpiritStatisticItem
           : bodyMindSpiritStatisticItem // ignore: cast_nullable_to_non_nullable
@@ -182,6 +215,10 @@ class __$ProfileStateCopyWithImpl<$Res> extends _$ProfileStateCopyWithImpl<$Res>
           ? _value.error
           : error // ignore: cast_nullable_to_non_nullable
               as String,
+      bodyMindSpiritStatistic: bodyMindSpiritStatistic == freezed
+          ? _value.bodyMindSpiritStatistic
+          : bodyMindSpiritStatistic // ignore: cast_nullable_to_non_nullable
+              as BodyMindSpiritStatistic,
     ));
   }
 }
@@ -189,15 +226,20 @@ class __$ProfileStateCopyWithImpl<$Res> extends _$ProfileStateCopyWithImpl<$Res>
 /// @nodoc
 
 class _$_ProfileState implements _ProfileState {
-  const _$_ProfileState(
-      {required this.headerItem,
-      required this.bodyMindSpiritStatisticItem,
-      required this.testButtonItem,
-      required this.loading,
-      required this.error});
+  const _$_ProfileState({
+    required this.headerItem,
+    required this.healthBalanceItem,
+    required this.bodyMindSpiritStatisticItem,
+    required this.testButtonItem,
+    required this.loading,
+    required this.error,
+    required this.bodyMindSpiritStatistic,
+  });
 
   @override
   final HeaderItem headerItem;
+  @override
+  final HealthBalanceItem healthBalanceItem;
   @override
   final BodyMindSpiritStatisticItem bodyMindSpiritStatisticItem;
   @override
@@ -206,6 +248,8 @@ class _$_ProfileState implements _ProfileState {
   final bool loading;
   @override
   final String error;
+  @override
+  final BodyMindSpiritStatistic bodyMindSpiritStatistic;
 
   @override
   String toString() {
@@ -217,13 +261,10 @@ class _$_ProfileState implements _ProfileState {
     return identical(this, other) ||
         (other.runtimeType == runtimeType &&
             other is _ProfileState &&
+            const DeepCollectionEquality().equals(other.headerItem, headerItem) &&
             const DeepCollectionEquality()
-                .equals(other.headerItem, headerItem) &&
-            const DeepCollectionEquality().equals(
-                other.bodyMindSpiritStatisticItem,
-                bodyMindSpiritStatisticItem) &&
-            const DeepCollectionEquality()
-                .equals(other.testButtonItem, testButtonItem) &&
+                .equals(other.bodyMindSpiritStatisticItem, bodyMindSpiritStatisticItem) &&
+            const DeepCollectionEquality().equals(other.testButtonItem, testButtonItem) &&
             const DeepCollectionEquality().equals(other.loading, loading) &&
             const DeepCollectionEquality().equals(other.error, error));
   }
@@ -244,25 +285,35 @@ class _$_ProfileState implements _ProfileState {
 }
 
 abstract class _ProfileState implements ProfileState {
-  const factory _ProfileState(
-      {required HeaderItem headerItem,
-      required BodyMindSpiritStatisticItem bodyMindSpiritStatisticItem,
-      required TestButtonItem testButtonItem,
-      required bool loading,
-      required String error}) = _$_ProfileState;
+  const factory _ProfileState({
+    required HeaderItem headerItem,
+    required HealthBalanceItem healthBalanceItem,
+    required BodyMindSpiritStatisticItem bodyMindSpiritStatisticItem,
+    required TestButtonItem testButtonItem,
+    required bool loading,
+    required String error,
+    required BodyMindSpiritStatistic bodyMindSpiritStatistic,
+  }) = _$_ProfileState;
 
   @override
   HeaderItem get headerItem;
+
   @override
   BodyMindSpiritStatisticItem get bodyMindSpiritStatisticItem;
+
   @override
   TestButtonItem get testButtonItem;
+
   @override
   bool get loading;
+
   @override
   String get error;
+
+  @override
+  BodyMindSpiritStatistic get bodyMindSpiritStatistic;
+
   @override
   @JsonKey(ignore: true)
-  _$ProfileStateCopyWith<_ProfileState> get copyWith =>
-      throw _privateConstructorUsedError;
+  _$ProfileStateCopyWith<_ProfileState> get copyWith => throw _privateConstructorUsedError;
 }
